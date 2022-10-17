@@ -3,6 +3,7 @@
 ## О работе
 - Павлова Анна Александровна
 - https://colab.research.google.com/drive/12Bo7YcpbfUiydR4v8q2WVESVl9I9T0aQ?usp=sharing
+- https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/tezs2ozd2gl0tx2/KGIOP_PRIMORSKY.json
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
